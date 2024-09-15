@@ -16,6 +16,8 @@ Este projeto é um desafio de Prompt Engineer, onde o objetivo é criar um promp
 O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 </p>
 
+### ***Encontrará o passo-a-passo de como fiz esse projeto na pasta "prompt"***
+
 ## 📋 Índice
 
 - [📋 Índice](#-índice)
